@@ -1,0 +1,15 @@
+12.0
+13
+1       SQLCHAR             0       20      ","     1     id                                                 ""
+2       SQLCHAR             0       20      ","     2     hotel_id                                           ""
+3       SQLCHAR             0       20      ","     3     currency_id                                        ""
+4       SQLCHAR             0       50      ","     4     source_system_code                                 ""
+5       SQLCHAR             0       20      ","     5     available_cnt                                      ""
+6       SQLCHAR             0       20      ","     6     sellings_price                                     ""
+7       SQLCHAR             0       20      ","     7     checkin_date                                       ""
+8       SQLCHAR             0       20      ","     8     checkout_date                                      ""
+9       SQLCHAR             0       20      ","     9     valid_offer_flag                                   ""
+10      SQLCHAR             0       20      ","     10    offer_valid_from                                   ""
+11      SQLCHAR             0       20      ","     11    offer_valid_to                                     ""
+12      SQLCHAR             0       20      ","     12    breakfast_included_flag                            ""
+13      SQLCHAR             0       20      "\n"   13     insert_datetime                                    ""

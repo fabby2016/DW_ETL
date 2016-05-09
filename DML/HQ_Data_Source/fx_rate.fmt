@@ -1,0 +1,7 @@
+12.0
+5
+1       SQLCHAR             0       20      ","     1     id                                   ""
+2       SQLCHAR             0       20      ","     2     prim_currency_id                     ""
+3       SQLCHAR             0       20      ","     3     scnd_currency_id                     ""
+4       SQLCHAR             0       20      ","     4     date                                 ""
+5       SQLCHAR             0       20      "\n"    5     currency_rate                        ""
