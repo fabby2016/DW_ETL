@@ -11,7 +11,8 @@ Please note that:
 Deployment instructions:
 -------------------------
 - Copy HQ_Data_Source on C: drive (or any other location you wihs but in that case you will
-  need to manually change the location path in the 01_Load_CSV_Files.sql file)
+  need to manually change the location path in the 01_Load_CSV_Files.sql file).
+  Also GitHub didn't allow me to add the CSV file (>25Mb) so please add the 3 CSV files.
 
 - Go to DDL folder and run the following scripts (I used SSMS) in the following order:
    
